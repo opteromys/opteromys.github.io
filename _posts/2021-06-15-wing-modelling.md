@@ -3,7 +3,7 @@
 *"Try fast, fail fast, learn and iterate"*. A Maker's mindset. Doing so can quickly lead to effective solutions, yet as the size and weight of our drones increases, this process becomes suboptimal. We hence decided to take on a rigourous aerodynamics study of one of our wings, led by three driven master students in mechanical engineering!
 
 The rationale behind such a study?
-Well for starters, the wing's manufacturer provides very little information regarding its wings, these are much less tested than actual-size paraglider wings. For instance, we wish to know at which angle of attack the wing is likely to stall, in order to avoid this configuration in our autonomous manoeuvres. Fluid dynamics simulations and analytical developments (rigid body dynamics) also provide an estimation of flight performance indicators with respect to tunable parameters the mechanical structure of our modular drones.
+Well for starters, the wing's manufacturer provides very little information regarding its wings, these are much less tested than actual-size paraglider wings. For instance, we wish to know at which angle of attack the wing is likely to stall, in order to avoid this configuration in our autonomous manoeuvres. Fluid dynamics simulations and analytical developments (rigid body dynamics) also provide an estimation of flight performance indicators with respect to tunable design parameters in the mechanical structure of our modular drones.
 
 Here's an output sample!
 Some parameters are obtained thanks to the wing's 3D mock-up.

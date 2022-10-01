@@ -13,6 +13,6 @@ Notre but est de savoir à quel point ce capteur peut être exploité sur notre 
 Cela pose de nombreuses questions, notamment comment traiter la grande quantité de données collectées à bord sachant qu'actuellement le drone utilise une Raspberry Pi. -->
 
 We recently acquired an Intel Realsense camera to supplement our drone with precise landing -- and possibly sense & avoid -- capabilities.
-This camera uses a stereo technique and an infrared sensor to get depth information of the imaged objects.
-Our goal is to know to what extent this sensor can be used on our drone to obtain information on its environment.
-Its integration within the drone raises many questions, including how to process the large amount of data collected on board knowing that the drone currently uses a Raspberry Pi.
+This camera uses a stereo technique and an infrared sensor to get depth information on the captured objects.
+Our goal is to assess to what extent this sensor can be used on our drone to obtain information about its environment.
+Its integration into the drone raises many questions, including how to process the large amount of data collected on board, knowing that the drone currently uses a Raspberry Pi.

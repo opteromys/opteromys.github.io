@@ -6,6 +6,6 @@
 Cette carte comporte tout un tas de capteurs et réalise la fusion de données pour permettre d'accéder aux données corrigées.
 Encore quelques améliorations doivent être faites comme en atteste la photo ci-dessus ! Le drone a fini dans un arbre car la connexion avec la station sol a été perdue. -->
 
-Following the difficulties encountered on Condor to maintain a vibration resilient architecture, we decided to switch to a Navio board which is an autopilot card for Raspberry Pi.
-This board has a lot of sensors, it performs data fusion and it provides corrected estimation of the state of the UAV.
-Still some improvements need to be made as the picture above shows! The drone ended up in a tree because of a lost signal with the ground station.
+Following the difficulties encountered on Condor to maintain a vibration resilient architecture, we decided to switch to a Navio board which is a drone controller for Raspberry Pi.
+This board has (or can be connected  to) many sensors, it performs data fusion and it provides corrected estimation of the state of the UAV.
+Still, some improvements need to be made, as the picture above suggests! The drone ended up in a tree because of a loss of signal with the ground station.

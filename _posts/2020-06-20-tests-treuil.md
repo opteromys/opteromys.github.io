@@ -13,9 +13,9 @@ Nous prévoyons de synchroniser le treuil de remorquage avec le drone pour déte
 The launch of our prototypes is both tedious and the success is random.
 We asked ourselves how we could automate the launch to make it more reliable.
 The tow winch solution quickly appeared to be the most adapted to our needs.
-We took advantage of the covid lockdown to build a towing winch.
+We hence took advantage of the covid lockdown to build a motorized winch.
 As soon as the restrictions were lifted we went to test it with our Goose prototype.
 Although the success rate was of 20%, the results were encouraging and with some hardware modifications we hope to greatly improve this rate.
-We plan to synchronize the towing winch with the drone to detect possible failures during takeoff such as launching with the wrong heading or locked-out situations.
+We plan to synchronize the winch with the drone to detect possible failures during takeoff such as launching with the wrong heading or locked-out situations.
 
 <div style="text-align: center;"><img src="/images/2020-06-20_launching.png" alt="Testing our tow winch with the Goose prototype" width="60%"/></div>
