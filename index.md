@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Opteromys is an association federating people interested in the development of low carbon emitting technologies for transportation.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+For the moment we focus on the development of an autonomous paraglider that aims at exploiting thermal in the mountains.
+Our prototype carries up to 8kg of payload.
